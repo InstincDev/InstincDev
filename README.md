@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at [instinc.dev](instinc.dev)
+- 👨‍💻 All of my projects are available at [instinc.dev](https://instinc.dev)
 
 - 📝 I regularly write articles on [https://instincdev.hashnode.dev/](https://instincdev.hashnode.dev/)
 
