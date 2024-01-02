@@ -42,8 +42,10 @@
   
   
   
-  
-  
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@instincdev/30-nites-of-code)  
+  ![@instincdev #30NitesOfCode](https://www.codedex.io/api/petStatus?user=instincdev)  
+  <p> Hi! My name is Elliot :wave:</p>
   
   
   
